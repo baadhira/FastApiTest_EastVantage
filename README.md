@@ -7,6 +7,8 @@ Prerequsites :
 Python
 Virtualenv
 
+git clone: https://github.com/baadhira/FastApiTest_EastVantage.git
+
 Open terminal and navigate to main project dir
 
 Create and Activate Virtualenv
